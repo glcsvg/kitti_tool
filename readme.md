@@ -11,7 +11,7 @@ pip3 install requirements.txt
 ## Usage
 
 ```python
-python3 kitti_tool.py
+python3 project.py
 ```
 ## Nots
 Label folder should be selected first, then image folder.New classes have to be added to the labels.txt
